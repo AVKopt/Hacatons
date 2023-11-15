@@ -34,6 +34,12 @@ Pandas, numpy, scikit-learn, torch, lightgbm, sentence-transformers, langdetect,
 - [Кодирование текстов песен в эмбеддинги](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/03-text-encoding.ipynb)
 - [Классификация треков + группировка каверов и исходных треков](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/04-tracks-classification-and-grouping.ipynb)
 
+[***Решение, сведенное в единый блокнот***](https://github.com/AVKopt/Hacatons/blob/main/Яндекс%20практикум%20и%20Яндекс%20Музыка/final_release_v1.ipynb).
+
+## Результат
+
+1-е место. [***Сертификат***](https://github.com/AVKopt/Hacatons/blob/main/Яндекс%20практикум%20и%20Яндекс%20Музыка/certificate.jpg)
+
 ## Вывод
 В результате исследования были построены 2 модели:
 
